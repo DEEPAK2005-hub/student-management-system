@@ -1,19 +1,26 @@
 # Student Management System
 
-## Description
-A Java-based application to manage student records.
+## Overview
+A Java web application for managing students and attendance records.
 
 ## Features
 - Add Student
 - View Students
-- Search Student
-- Update Student Details
-- Delete Student
+- Manage Attendance
+- Generate Attendance Reports
 
 ## Technologies Used
 - Java
-- OOP Concepts
-- File Handling / Database (if used)
+- JSP
+- Servlets
+- JDBC
+- MySQL
+- HTML/CSS
+
+## Project Structure
+- controller
+- model
+- views
 
 ## Author
-Deepak hc
+Deepak HC
